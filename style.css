@@ -8,8 +8,10 @@
         }
 p{ color: #1B262C;
 font-family:'Courier New';}
-#shirah {float:left;}
-#shirah2{float:right;}
+#shirah {float:left; 
+      margin-right:10px;}
+#shirah2{float:right;
+          margin-left:10px;}
 #aboutme{width: 1024px;}
             
       
