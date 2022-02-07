@@ -1,11 +1,13 @@
       h1 {
             color: #3282B8;
+            font-family:'Courier New';
         }  
         
       body {
             background-color: #BBE1FA;
         }
-p{ color: #1B262C;}
+p{ color: #1B262C;
+font-family:'Courier New';}
 
             
       
